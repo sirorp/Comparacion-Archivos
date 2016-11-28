@@ -1,6 +1,6 @@
 
 /******************************************************************************
-*   simple_diff.c
+*   my_diff.c
 *
 *   This source compare two files character by character
 *   
